@@ -273,4 +273,5 @@ footer input[type="text"], input[type="email"], textarea{
     width: 100%;
     padding: 10px 20px;
     margin-bottom: 24px;
+    border: none;
 }
